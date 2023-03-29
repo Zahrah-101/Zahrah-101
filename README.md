@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatima Sheikh
 - 👀 I’m interested in using innovative and creative strategies to create solutions. 
-- 🌱 I’m currently learning Data Science and AI. 
+- 🌱 I’m currently specializing in Data Science and AI. 
 - 💞️ I’m looking to collaborate on Data Science and AI projects. 
 - 📫 How to reach me timsheikh@gmail.com and Fatima Sheikh on LinkedIn. 
 
